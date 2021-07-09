@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30725585925",
+    "project_id": "messenger-29097",
+    "storage_bucket": "messenger-29097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30725585925:android:0de8f2c480582fac0df06c",
+        "android_client_info": {
+          "package_name": "ru.proga.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30725585925-as3762nflitc6f533ut54o8kthtuqk6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTmNsbbTixB1-Evmf-a9P8r8thgh3shbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30725585925-as3762nflitc6f533ut54o8kthtuqk6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
